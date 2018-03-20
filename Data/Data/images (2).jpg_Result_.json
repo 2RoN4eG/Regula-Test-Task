@@ -1,0 +1,13 @@
+{
+"Persons": [
+    {
+        "FilePath": "../../../Data/Data/images (2).jpg",
+        "Face": {
+            "X": 98,
+            "Y": 139,
+            "W": 64,
+            "H": 64,
+        }
+    }
+    ]
+}

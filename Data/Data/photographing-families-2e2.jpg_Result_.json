@@ -1,0 +1,22 @@
+{
+"Persons": [
+    {
+        "FilePath": "../../../Data/Data/photographing-families-2e2.jpg",
+        "Face": {
+            "X": 365,
+            "Y": 120,
+            "W": 34,
+            "H": 34,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/photographing-families-2e2.jpg",
+        "Face": {
+            "X": 285,
+            "Y": 272,
+            "W": 48,
+            "H": 48,
+        }
+    }
+    ]
+}

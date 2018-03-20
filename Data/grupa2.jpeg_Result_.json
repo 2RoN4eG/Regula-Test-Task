@@ -1,0 +1,121 @@
+{
+"Persons": [
+    {
+        "FilePath": "../../../Data/grupa2.jpeg",
+        "Face": {
+            "X": 348,
+            "Y": 55,
+            "W": 35,
+            "H": 35,
+        }
+    },
+    {
+        "FilePath": "../../../Data/grupa2.jpeg",
+        "Face": {
+            "X": 116,
+            "Y": 59,
+            "W": 35,
+            "H": 35,
+        }
+    },
+    {
+        "FilePath": "../../../Data/grupa2.jpeg",
+        "Face": {
+            "X": 434,
+            "Y": 63,
+            "W": 35,
+            "H": 35,
+        }
+    },
+    {
+        "FilePath": "../../../Data/grupa2.jpeg",
+        "Face": {
+            "X": 27,
+            "Y": 71,
+            "W": 34,
+            "H": 34,
+        }
+    },
+    {
+        "FilePath": "../../../Data/grupa2.jpeg",
+        "Face": {
+            "X": 206,
+            "Y": 78,
+            "W": 35,
+            "H": 35,
+        }
+    },
+    {
+        "FilePath": "../../../Data/grupa2.jpeg",
+        "Face": {
+            "X": 475,
+            "Y": 75,
+            "W": 39,
+            "H": 39,
+        }
+    },
+    {
+        "FilePath": "../../../Data/grupa2.jpeg",
+        "Face": {
+            "X": 302,
+            "Y": 82,
+            "W": 38,
+            "H": 38,
+        }
+    },
+    {
+        "FilePath": "../../../Data/grupa2.jpeg",
+        "Face": {
+            "X": 601,
+            "Y": 80,
+            "W": 47,
+            "H": 47,
+        }
+    },
+    {
+        "FilePath": "../../../Data/grupa2.jpeg",
+        "Face": {
+            "X": 170,
+            "Y": 95,
+            "W": 34,
+            "H": 34,
+        }
+    },
+    {
+        "FilePath": "../../../Data/grupa2.jpeg",
+        "Face": {
+            "X": 518,
+            "Y": 92,
+            "W": 43,
+            "H": 43,
+        }
+    },
+    {
+        "FilePath": "../../../Data/grupa2.jpeg",
+        "Face": {
+            "X": 58,
+            "Y": 103,
+            "W": 42,
+            "H": 42,
+        }
+    },
+    {
+        "FilePath": "../../../Data/grupa2.jpeg",
+        "Face": {
+            "X": 391,
+            "Y": 106,
+            "W": 33,
+            "H": 33,
+        }
+    },
+    {
+        "FilePath": "../../../Data/grupa2.jpeg",
+        "Face": {
+            "X": 80,
+            "Y": 323,
+            "W": 78,
+            "H": 78,
+        }
+    }
+    ]
+}

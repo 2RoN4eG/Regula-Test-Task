@@ -1,0 +1,3 @@
+cd ./ProjectTask/binary/Linux/x64/
+./FaceDetectorApplication ../../../work/Data/
+

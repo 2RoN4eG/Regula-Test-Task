@@ -1,0 +1,859 @@
+{
+"Persons": [
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 70,
+            "Y": 9,
+            "W": 33,
+            "H": 33,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 303,
+            "Y": 8,
+            "W": 35,
+            "H": 35,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 420,
+            "Y": 6,
+            "W": 40,
+            "H": 40,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 595,
+            "Y": 7,
+            "W": 35,
+            "H": 35,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 366,
+            "Y": 12,
+            "W": 33,
+            "H": 33,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 481,
+            "Y": 10,
+            "W": 35,
+            "H": 35,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 657,
+            "Y": 11,
+            "W": 33,
+            "H": 33,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 14,
+            "Y": 66,
+            "W": 34,
+            "H": 34,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 129,
+            "Y": 68,
+            "W": 32,
+            "H": 32,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 185,
+            "Y": 66,
+            "W": 35,
+            "H": 35,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 248,
+            "Y": 68,
+            "W": 33,
+            "H": 33,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 480,
+            "Y": 68,
+            "W": 33,
+            "H": 33,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 538,
+            "Y": 68,
+            "W": 33,
+            "H": 33,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 596,
+            "Y": 66,
+            "W": 34,
+            "H": 34,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 654,
+            "Y": 68,
+            "W": 33,
+            "H": 33,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 362,
+            "Y": 70,
+            "W": 33,
+            "H": 33,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 72,
+            "Y": 125,
+            "W": 33,
+            "H": 33,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 130,
+            "Y": 125,
+            "W": 33,
+            "H": 33,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 246,
+            "Y": 126,
+            "W": 35,
+            "H": 35,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 303,
+            "Y": 126,
+            "W": 33,
+            "H": 33,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 188,
+            "Y": 126,
+            "W": 35,
+            "H": 35,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 421,
+            "Y": 127,
+            "W": 33,
+            "H": 33,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 477,
+            "Y": 126,
+            "W": 35,
+            "H": 35,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 538,
+            "Y": 127,
+            "W": 33,
+            "H": 33,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 596,
+            "Y": 128,
+            "W": 35,
+            "H": 35,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 653,
+            "Y": 127,
+            "W": 36,
+            "H": 36,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 538,
+            "Y": 183,
+            "W": 33,
+            "H": 33,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 12,
+            "Y": 185,
+            "W": 34,
+            "H": 34,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 302,
+            "Y": 185,
+            "W": 34,
+            "H": 34,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 70,
+            "Y": 185,
+            "W": 34,
+            "H": 34,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 246,
+            "Y": 188,
+            "W": 32,
+            "H": 32,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 596,
+            "Y": 186,
+            "W": 34,
+            "H": 34,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 655,
+            "Y": 186,
+            "W": 34,
+            "H": 34,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 127,
+            "Y": 240,
+            "W": 39,
+            "H": 39,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 480,
+            "Y": 244,
+            "W": 33,
+            "H": 33,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 538,
+            "Y": 244,
+            "W": 33,
+            "H": 33,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 11,
+            "Y": 244,
+            "W": 34,
+            "H": 34,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 70,
+            "Y": 244,
+            "W": 33,
+            "H": 33,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 304,
+            "Y": 244,
+            "W": 34,
+            "H": 34,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 596,
+            "Y": 244,
+            "W": 33,
+            "H": 33,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 71,
+            "Y": 301,
+            "W": 35,
+            "H": 35,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 130,
+            "Y": 300,
+            "W": 34,
+            "H": 34,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 245,
+            "Y": 302,
+            "W": 34,
+            "H": 34,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 304,
+            "Y": 302,
+            "W": 33,
+            "H": 33,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 421,
+            "Y": 302,
+            "W": 34,
+            "H": 34,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 536,
+            "Y": 300,
+            "W": 35,
+            "H": 35,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 596,
+            "Y": 301,
+            "W": 33,
+            "H": 33,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 362,
+            "Y": 303,
+            "W": 33,
+            "H": 33,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 362,
+            "Y": 358,
+            "W": 33,
+            "H": 33,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 129,
+            "Y": 359,
+            "W": 34,
+            "H": 34,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 654,
+            "Y": 361,
+            "W": 32,
+            "H": 32,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 72,
+            "Y": 361,
+            "W": 33,
+            "H": 33,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 247,
+            "Y": 361,
+            "W": 34,
+            "H": 34,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 304,
+            "Y": 361,
+            "W": 34,
+            "H": 34,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 422,
+            "Y": 361,
+            "W": 34,
+            "H": 34,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 597,
+            "Y": 414,
+            "W": 33,
+            "H": 33,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 130,
+            "Y": 418,
+            "W": 34,
+            "H": 34,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 187,
+            "Y": 418,
+            "W": 35,
+            "H": 35,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 247,
+            "Y": 417,
+            "W": 35,
+            "H": 35,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 304,
+            "Y": 418,
+            "W": 35,
+            "H": 35,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 364,
+            "Y": 420,
+            "W": 33,
+            "H": 33,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 538,
+            "Y": 417,
+            "W": 34,
+            "H": 34,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 655,
+            "Y": 418,
+            "W": 32,
+            "H": 32,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 130,
+            "Y": 476,
+            "W": 32,
+            "H": 32,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 188,
+            "Y": 474,
+            "W": 33,
+            "H": 33,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 248,
+            "Y": 474,
+            "W": 33,
+            "H": 33,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 302,
+            "Y": 476,
+            "W": 34,
+            "H": 34,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 366,
+            "Y": 476,
+            "W": 34,
+            "H": 34,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 422,
+            "Y": 477,
+            "W": 33,
+            "H": 33,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 538,
+            "Y": 477,
+            "W": 32,
+            "H": 32,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 596,
+            "Y": 476,
+            "W": 33,
+            "H": 33,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 130,
+            "Y": 533,
+            "W": 33,
+            "H": 33,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 187,
+            "Y": 533,
+            "W": 33,
+            "H": 33,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 538,
+            "Y": 532,
+            "W": 36,
+            "H": 36,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 10,
+            "Y": 533,
+            "W": 36,
+            "H": 36,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 362,
+            "Y": 534,
+            "W": 35,
+            "H": 35,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 424,
+            "Y": 536,
+            "W": 33,
+            "H": 33,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 597,
+            "Y": 536,
+            "W": 32,
+            "H": 32,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 13,
+            "Y": 592,
+            "W": 33,
+            "H": 33,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 361,
+            "Y": 591,
+            "W": 34,
+            "H": 34,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 479,
+            "Y": 593,
+            "W": 33,
+            "H": 33,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 653,
+            "Y": 590,
+            "W": 35,
+            "H": 35,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 246,
+            "Y": 593,
+            "W": 33,
+            "H": 33,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 421,
+            "Y": 594,
+            "W": 33,
+            "H": 33,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 596,
+            "Y": 594,
+            "W": 33,
+            "H": 33,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 304,
+            "Y": 651,
+            "W": 33,
+            "H": 33,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 422,
+            "Y": 651,
+            "W": 32,
+            "H": 32,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 130,
+            "Y": 654,
+            "W": 33,
+            "H": 33,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 191,
+            "Y": 653,
+            "W": 32,
+            "H": 32,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 361,
+            "Y": 653,
+            "W": 33,
+            "H": 33,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 481,
+            "Y": 654,
+            "W": 33,
+            "H": 33,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 127,
+            "Y": 1,
+            "W": 42,
+            "H": 42,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 162,
+            "Y": 38,
+            "W": 58,
+            "H": 58,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 453,
+            "Y": 296,
+            "W": 87,
+            "H": 87,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/trainer.jpg",
+        "Face": {
+            "X": 330,
+            "Y": 527,
+            "W": 101,
+            "H": 101,
+        }
+    }
+    ]
+}

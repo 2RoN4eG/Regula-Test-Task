@@ -1,0 +1,76 @@
+{
+"Persons": [
+    {
+        "FilePath": "../../../Data/Data/variedad-entre-diferentes-caras.jpg",
+        "Face": {
+            "X": 239,
+            "Y": 526,
+            "W": 52,
+            "H": 52,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/variedad-entre-diferentes-caras.jpg",
+        "Face": {
+            "X": 610,
+            "Y": 262,
+            "W": 62,
+            "H": 62,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/variedad-entre-diferentes-caras.jpg",
+        "Face": {
+            "X": 278,
+            "Y": 87,
+            "W": 74,
+            "H": 74,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/variedad-entre-diferentes-caras.jpg",
+        "Face": {
+            "X": 55,
+            "Y": 82,
+            "W": 109,
+            "H": 109,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/variedad-entre-diferentes-caras.jpg",
+        "Face": {
+            "X": 595,
+            "Y": 498,
+            "W": 96,
+            "H": 96,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/variedad-entre-diferentes-caras.jpg",
+        "Face": {
+            "X": 52,
+            "Y": 283,
+            "W": 126,
+            "H": 126,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/variedad-entre-diferentes-caras.jpg",
+        "Face": {
+            "X": 219,
+            "Y": 85,
+            "W": 136,
+            "H": 136,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Data/variedad-entre-diferentes-caras.jpg",
+        "Face": {
+            "X": 351,
+            "Y": 122,
+            "W": 210,
+            "H": 210,
+        }
+    }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+"Persons": [
+    {
+        "FilePath": "../../../Data/cropped-bg_trainers_h1536-1.jpg",
+        "Face": {
+            "X": 499,
+            "Y": 45,
+            "W": 33,
+            "H": 33,
+        }
+    },
+    {
+        "FilePath": "../../../Data/cropped-bg_trainers_h1536-1.jpg",
+        "Face": {
+            "X": 265,
+            "Y": 965,
+            "W": 41,
+            "H": 41,
+        }
+    },
+    {
+        "FilePath": "../../../Data/cropped-bg_trainers_h1536-1.jpg",
+        "Face": {
+            "X": 457,
+            "Y": 472,
+            "W": 68,
+            "H": 68,
+        }
+    },
+    {
+        "FilePath": "../../../Data/cropped-bg_trainers_h1536-1.jpg",
+        "Face": {
+            "X": 1598,
+            "Y": 425,
+            "W": 70,
+            "H": 70,
+        }
+    },
+    {
+        "FilePath": "../../../Data/cropped-bg_trainers_h1536-1.jpg",
+        "Face": {
+            "X": 1339,
+            "Y": 457,
+            "W": 67,
+            "H": 67,
+        }
+    },
+    {
+        "FilePath": "../../../Data/cropped-bg_trainers_h1536-1.jpg",
+        "Face": {
+            "X": 617,
+            "Y": 472,
+            "W": 72,
+            "H": 72,
+        }
+    },
+    {
+        "FilePath": "../../../Data/cropped-bg_trainers_h1536-1.jpg",
+        "Face": {
+            "X": 217,
+            "Y": 502,
+            "W": 72,
+            "H": 72,
+        }
+    },
+    {
+        "FilePath": "../../../Data/cropped-bg_trainers_h1536-1.jpg",
+        "Face": {
+            "X": 1123,
+            "Y": 510,
+            "W": 69,
+            "H": 69,
+        }
+    },
+    {
+        "FilePath": "../../../Data/cropped-bg_trainers_h1536-1.jpg",
+        "Face": {
+            "X": 1276,
+            "Y": 1000,
+            "W": 61,
+            "H": 61,
+        }
+    },
+    {
+        "FilePath": "../../../Data/cropped-bg_trainers_h1536-1.jpg",
+        "Face": {
+            "X": 856,
+            "Y": 504,
+            "W": 78,
+            "H": 78,
+        }
+    },
+    {
+        "FilePath": "../../../Data/cropped-bg_trainers_h1536-1.jpg",
+        "Face": {
+            "X": 660,
+            "Y": 917,
+            "W": 116,
+            "H": 116,
+        }
+    },
+    {
+        "FilePath": "../../../Data/cropped-bg_trainers_h1536-1.jpg",
+        "Face": {
+            "X": 691,
+            "Y": 647,
+            "W": 182,
+            "H": 182,
+        }
+    },
+    {
+        "FilePath": "../../../Data/cropped-bg_trainers_h1536-1.jpg",
+        "Face": {
+            "X": 1006,
+            "Y": 413,
+            "W": 327,
+            "H": 327,
+        }
+    }
+    ]
+}

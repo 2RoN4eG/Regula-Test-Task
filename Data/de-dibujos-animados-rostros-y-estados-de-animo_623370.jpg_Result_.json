@@ -1,0 +1,40 @@
+{
+"Persons": [
+    {
+        "FilePath": "../../../Data/de-dibujos-animados-rostros-y-estados-de-animo_623370.jpg",
+        "Face": {
+            "X": 170,
+            "Y": 178,
+            "W": 86,
+            "H": 86,
+        }
+    },
+    {
+        "FilePath": "../../../Data/de-dibujos-animados-rostros-y-estados-de-animo_623370.jpg",
+        "Face": {
+            "X": 242,
+            "Y": 54,
+            "W": 131,
+            "H": 131,
+        }
+    },
+    {
+        "FilePath": "../../../Data/de-dibujos-animados-rostros-y-estados-de-animo_623370.jpg",
+        "Face": {
+            "X": 226,
+            "Y": 246,
+            "W": 166,
+            "H": 166,
+        }
+    },
+    {
+        "FilePath": "../../../Data/de-dibujos-animados-rostros-y-estados-de-animo_623370.jpg",
+        "Face": {
+            "X": 428,
+            "Y": 245,
+            "W": 158,
+            "H": 158,
+        }
+    }
+    ]
+}

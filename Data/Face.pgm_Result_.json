@@ -1,0 +1,319 @@
+{
+"Persons": [
+    {
+        "FilePath": "../../../Data/Face.pgm",
+        "Face": {
+            "X": 1043,
+            "Y": 46,
+            "W": 44,
+            "H": 44,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Face.pgm",
+        "Face": {
+            "X": 290,
+            "Y": 81,
+            "W": 42,
+            "H": 42,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Face.pgm",
+        "Face": {
+            "X": 674,
+            "Y": 88,
+            "W": 41,
+            "H": 41,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Face.pgm",
+        "Face": {
+            "X": 782,
+            "Y": 90,
+            "W": 44,
+            "H": 44,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Face.pgm",
+        "Face": {
+            "X": 460,
+            "Y": 100,
+            "W": 45,
+            "H": 45,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Face.pgm",
+        "Face": {
+            "X": 595,
+            "Y": 160,
+            "W": 48,
+            "H": 48,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Face.pgm",
+        "Face": {
+            "X": 54,
+            "Y": 165,
+            "W": 48,
+            "H": 48,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Face.pgm",
+        "Face": {
+            "X": 172,
+            "Y": 185,
+            "W": 46,
+            "H": 46,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Face.pgm",
+        "Face": {
+            "X": 97,
+            "Y": 210,
+            "W": 47,
+            "H": 47,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Face.pgm",
+        "Face": {
+            "X": 358,
+            "Y": 209,
+            "W": 54,
+            "H": 54,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Face.pgm",
+        "Face": {
+            "X": 197,
+            "Y": 50,
+            "W": 45,
+            "H": 45,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Face.pgm",
+        "Face": {
+            "X": 972,
+            "Y": 85,
+            "W": 42,
+            "H": 42,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Face.pgm",
+        "Face": {
+            "X": 881,
+            "Y": 86,
+            "W": 48,
+            "H": 48,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Face.pgm",
+        "Face": {
+            "X": 353,
+            "Y": 106,
+            "W": 45,
+            "H": 45,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Face.pgm",
+        "Face": {
+            "X": 706,
+            "Y": 164,
+            "W": 49,
+            "H": 49,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Face.pgm",
+        "Face": {
+            "X": 298,
+            "Y": 168,
+            "W": 51,
+            "H": 51,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Face.pgm",
+        "Face": {
+            "X": 825,
+            "Y": 171,
+            "W": 48,
+            "H": 48,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Face.pgm",
+        "Face": {
+            "X": 1088,
+            "Y": 177,
+            "W": 56,
+            "H": 56,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Face.pgm",
+        "Face": {
+            "X": 497,
+            "Y": 211,
+            "W": 60,
+            "H": 60,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Face.pgm",
+        "Face": {
+            "X": 1037,
+            "Y": 213,
+            "W": 54,
+            "H": 54,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Face.pgm",
+        "Face": {
+            "X": 573,
+            "Y": 107,
+            "W": 50,
+            "H": 50,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Face.pgm",
+        "Face": {
+            "X": 438,
+            "Y": 164,
+            "W": 57,
+            "H": 57,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Face.pgm",
+        "Face": {
+            "X": 223,
+            "Y": 211,
+            "W": 60,
+            "H": 60,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Face.pgm",
+        "Face": {
+            "X": 1137,
+            "Y": 228,
+            "W": 54,
+            "H": 54,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Face.pgm",
+        "Face": {
+            "X": 1098,
+            "Y": 81,
+            "W": 52,
+            "H": 52,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Face.pgm",
+        "Face": {
+            "X": 959,
+            "Y": 170,
+            "W": 61,
+            "H": 61,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Face.pgm",
+        "Face": {
+            "X": 669,
+            "Y": 205,
+            "W": 55,
+            "H": 55,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Face.pgm",
+        "Face": {
+            "X": 889,
+            "Y": 200,
+            "W": 60,
+            "H": 60,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Face.pgm",
+        "Face": {
+            "X": 782,
+            "Y": 204,
+            "W": 57,
+            "H": 57,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Face.pgm",
+        "Face": {
+            "X": 503,
+            "Y": 258,
+            "W": 54,
+            "H": 54,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Face.pgm",
+        "Face": {
+            "X": 20,
+            "Y": 25,
+            "W": 52,
+            "H": 52,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Face.pgm",
+        "Face": {
+            "X": 164,
+            "Y": 160,
+            "W": 55,
+            "H": 55,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Face.pgm",
+        "Face": {
+            "X": 81,
+            "Y": 175,
+            "W": 77,
+            "H": 77,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Face.pgm",
+        "Face": {
+            "X": 442,
+            "Y": 190,
+            "W": 75,
+            "H": 75,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Face.pgm",
+        "Face": {
+            "X": 32,
+            "Y": 82,
+            "W": 121,
+            "H": 121,
+        }
+    }
+    ]
+}

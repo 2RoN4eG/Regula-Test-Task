@@ -1,0 +1,760 @@
+{
+"Persons": [
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 1120,
+            "Y": 5,
+            "W": 37,
+            "H": 37,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 1250,
+            "Y": 3,
+            "W": 35,
+            "H": 35,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 742,
+            "Y": 70,
+            "W": 34,
+            "H": 34,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 912,
+            "Y": 68,
+            "W": 35,
+            "H": 35,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 989,
+            "Y": 132,
+            "W": 33,
+            "H": 33,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 1054,
+            "Y": 132,
+            "W": 33,
+            "H": 33,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 661,
+            "Y": 133,
+            "W": 34,
+            "H": 34,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 211,
+            "Y": 138,
+            "W": 35,
+            "H": 35,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 276,
+            "Y": 138,
+            "W": 34,
+            "H": 34,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 342,
+            "Y": 138,
+            "W": 34,
+            "H": 34,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 84,
+            "Y": 197,
+            "W": 36,
+            "H": 36,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 677,
+            "Y": 200,
+            "W": 37,
+            "H": 37,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 796,
+            "Y": 206,
+            "W": 33,
+            "H": 33,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 194,
+            "Y": 204,
+            "W": 37,
+            "H": 37,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 154,
+            "Y": 211,
+            "W": 35,
+            "H": 35,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 736,
+            "Y": 264,
+            "W": 35,
+            "H": 35,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 1181,
+            "Y": 258,
+            "W": 39,
+            "H": 39,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 602,
+            "Y": 324,
+            "W": 33,
+            "H": 33,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 667,
+            "Y": 324,
+            "W": 33,
+            "H": 33,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 274,
+            "Y": 327,
+            "W": 33,
+            "H": 33,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 338,
+            "Y": 327,
+            "W": 33,
+            "H": 33,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 983,
+            "Y": 335,
+            "W": 36,
+            "H": 36,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 601,
+            "Y": 394,
+            "W": 39,
+            "H": 39,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 147,
+            "Y": 396,
+            "W": 38,
+            "H": 38,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 25,
+            "Y": 401,
+            "W": 34,
+            "H": 34,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 531,
+            "Y": 399,
+            "W": 39,
+            "H": 39,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 1316,
+            "Y": 456,
+            "W": 34,
+            "H": 34,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 1118,
+            "Y": 459,
+            "W": 36,
+            "H": 36,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 792,
+            "Y": 461,
+            "W": 37,
+            "H": 37,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 594,
+            "Y": 466,
+            "W": 39,
+            "H": 39,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 604,
+            "Y": 515,
+            "W": 36,
+            "H": 36,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 341,
+            "Y": 524,
+            "W": 35,
+            "H": 35,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 405,
+            "Y": 523,
+            "W": 37,
+            "H": 37,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 471,
+            "Y": 523,
+            "W": 35,
+            "H": 35,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 456,
+            "Y": 595,
+            "W": 34,
+            "H": 34,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 914,
+            "Y": 591,
+            "W": 44,
+            "H": 44,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 748,
+            "Y": 610,
+            "W": 35,
+            "H": 35,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 269,
+            "Y": 652,
+            "W": 38,
+            "H": 38,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 82,
+            "Y": 715,
+            "W": 34,
+            "H": 34,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 1305,
+            "Y": 771,
+            "W": 33,
+            "H": 33,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 602,
+            "Y": 788,
+            "W": 34,
+            "H": 34,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 463,
+            "Y": 787,
+            "W": 41,
+            "H": 41,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 1261,
+            "Y": 797,
+            "W": 34,
+            "H": 34,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 932,
+            "Y": 843,
+            "W": 33,
+            "H": 33,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 10,
+            "Y": 853,
+            "W": 37,
+            "H": 37,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 86,
+            "Y": 861,
+            "W": 35,
+            "H": 35,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 539,
+            "Y": 907,
+            "W": 33,
+            "H": 33,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 986,
+            "Y": 917,
+            "W": 35,
+            "H": 35,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 332,
+            "Y": 918,
+            "W": 38,
+            "H": 38,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 989,
+            "Y": 68,
+            "W": 40,
+            "H": 40,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 10,
+            "Y": 202,
+            "W": 48,
+            "H": 48,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 404,
+            "Y": 203,
+            "W": 44,
+            "H": 44,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 1245,
+            "Y": 256,
+            "W": 43,
+            "H": 43,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 466,
+            "Y": 398,
+            "W": 40,
+            "H": 40,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 1183,
+            "Y": 460,
+            "W": 37,
+            "H": 37,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 69,
+            "Y": 127,
+            "W": 52,
+            "H": 52,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 782,
+            "Y": 136,
+            "W": 47,
+            "H": 47,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 270,
+            "Y": 446,
+            "W": 47,
+            "H": 47,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 341,
+            "Y": 451,
+            "W": 54,
+            "H": 54,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 199,
+            "Y": 520,
+            "W": 49,
+            "H": 49,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 265,
+            "Y": 520,
+            "W": 48,
+            "H": 48,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 87,
+            "Y": 60,
+            "W": 48,
+            "H": 48,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 134,
+            "Y": 127,
+            "W": 50,
+            "H": 50,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 850,
+            "Y": 137,
+            "W": 44,
+            "H": 44,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 905,
+            "Y": 322,
+            "W": 55,
+            "H": 55,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 207,
+            "Y": 385,
+            "W": 50,
+            "H": 50,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 137,
+            "Y": 443,
+            "W": 51,
+            "H": 51,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 202,
+            "Y": 443,
+            "W": 52,
+            "H": 52,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 404,
+            "Y": 451,
+            "W": 57,
+            "H": 57,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 667,
+            "Y": 531,
+            "W": 44,
+            "H": 44,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 779,
+            "Y": 59,
+            "W": 54,
+            "H": 54,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 1050,
+            "Y": 315,
+            "W": 50,
+            "H": 50,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 667,
+            "Y": 360,
+            "W": 55,
+            "H": 55,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 1240,
+            "Y": 386,
+            "W": 53,
+            "H": 53,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 1304,
+            "Y": 385,
+            "W": 54,
+            "H": 54,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 5,
+            "Y": 653,
+            "W": 58,
+            "H": 58,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 858,
+            "Y": 319,
+            "W": 55,
+            "H": 55,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 1293,
+            "Y": 358,
+            "W": 60,
+            "H": 60,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 1174,
+            "Y": 385,
+            "W": 54,
+            "H": 54,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 838,
+            "Y": 320,
+            "W": 59,
+            "H": 59,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 274,
+            "Y": 48,
+            "W": 64,
+            "H": 64,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 649,
+            "Y": 91,
+            "W": 70,
+            "H": 70,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 964,
+            "Y": 561,
+            "W": 79,
+            "H": 79,
+        }
+    },
+    {
+        "FilePath": "../../../Data/Dfzze.jpg",
+        "Face": {
+            "X": 779,
+            "Y": 174,
+            "W": 78,
+            "H": 78,
+        }
+    }
+    ]
+}
